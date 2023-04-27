@@ -1,4 +1,4 @@
-# akash_web
+# INDIFAV Website
 
 Live Hosted Website link:-------------->>>>>>>  https://akash-web-sand.vercel.app/
 
