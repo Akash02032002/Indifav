@@ -1,6 +1,8 @@
 # INDIFAV Website
 
-## Freelance Project.
+## India's Fashion Hub
+
+## A Freelancing Project.
 
 Live Hosted Website link:-------------->>>>>>>  https://akash-web-sand.vercel.app/
 
