@@ -4,7 +4,7 @@
 
 Live Hosted Website link:-------------->>>>>>>  https://akash-web-sand.vercel.app/
 
-It is a multipage web application which made this for my client who has a startup of custom cloth making industry. Where a person can visit and book an appointment of making custom cloths as per their desire design and comfort.
+It is a multipage web application which I made this for my client who has a startup of custom cloth making industry. Where a person can visit and book an appointment of making custom cloths as per their desire design and comfort.
 
  Git hub link of this web 2 Project is given below :-
 
