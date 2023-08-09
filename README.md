@@ -4,18 +4,19 @@
 
 ## A Freelancing Project.
 
-Live Hosted Website link:-------------->>>>>>>  https://akash-web-sand.vercel.app/
+### Live Hosted Website link:-------------->>>>>>>  https://akash-web-sand.vercel.app/
 
-It is a multipage web application which I made this for my client who has a startup of custom cloth making industry. Where a person can visit and book an appointment of making custom cloths as per their desire design and comfort.
+### • It is a multipage web application which I made this for my client who has a startup of custom cloth making industry. Where a person can visit and book an appointment of making custom cloths as per their desire design and comfort for all gender & age group of peoples .
 
- Git hub link of this web 2 Project is given below :-
+### • Technologies : HTML, CSS, Vanilla Javascript, PHP and JSON server etc.
 
-https://github.com/Akash02032002/akash_web
+### Git hub link of this web 2 Project is given below :-
 
+### https://github.com/Akash02032002/Indifav
 
-Live Demo link given below which is hosted on Vercel :-
+### Live Demo link given below which is hosted on Vercel :-
 
-https://akash-web-sand.vercel.app/
+### https://akash-web-sand.vercel.app/
 
 <img width="948" alt="Screenshot 2023-08-08 164010" src="https://github.com/Akash02032002/Indifav/assets/84145371/4f756920-02fb-46aa-a3f0-c6a324f9936d">
 
