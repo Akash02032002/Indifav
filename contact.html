@@ -80,14 +80,24 @@
                 </div>
 
             </div>
+
+
+             <!-- Display submission status -->
+            <?php if(!empty($statusMsg)){ ?>
+            <p><?php echo $statusMsg; ?></p>
+            <?php } ?>
+
             <div class="contact-col">
 
                 <form action="mail.php" method="post" enctype="multipart/form-data">
-                    <input type="text" name="name" placeholder="Name"> <br>
-                    <input type="text" name="email" placeholder="email"> <br>
-                    <input type="text" name="message" placeholder="Message"> <br>
-                    <input type="file" name="file"> <br>
-                    <input type="submit" value="Submit">
+                    <input type="text" name="name" class="form-control" placeholder="Name" required=""> <br>
+                    <input type="email" name="email" class="form-control" placeholder="Email address" required=""> <br>
+                    <input type="text" name="subject" class="form-control"  placeholder="Subject" required=""> <br>
+                    <!-- <input type="text" name="message" placeholder="Message"> <br> -->
+                    <textarea row="10" name="message" class="form-control" placeholder="Write your message here" required=""></textarea> <br>
+                    <!-- <input type="file" name="file" class="form-control"> <br> -->
+                    <!-- <input type="submit" value="Submit"> -->
+                    <input type="submit" name="submit" class="hero-btn red-btn" value="Send Message">
                 </form>
             </div>
         </div>
