@@ -2,7 +2,11 @@
 
 ## India's Fashion Hub
 
-## A Freelancing Project.
+## A Freelancing Project by :-
+
+## Indifav Textile Startup
+
+https://www.linkedin.com/company/indifav/
 
 ### Live Hosted Website link:-------------->>>>>>>  https://akash-web-sand.vercel.app/
 
